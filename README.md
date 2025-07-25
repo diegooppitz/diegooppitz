@@ -25,11 +25,8 @@ I specialize in building web applications with a focus on modern frontend techno
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
