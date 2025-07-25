@@ -7,6 +7,7 @@ I specialize in building web applications with a focus on modern frontend techno
 
 ## About Me
 - I've been working as a frontend developer since 2018.
+- Currently, I'm working on benefits and finance projects at **South System**.
 - I have experience in large-scale banking software projects at **Lending Club**.
 - I contributed to data intelligence platforms for major companies at **PmWeb**.
 - I worked on websites and digital campaigns for top brands at **Transa Inc**.
