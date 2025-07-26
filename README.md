@@ -1,4 +1,4 @@
-# I'm Diego — welcome to my GitHub!
+# I'm Diego — Welcome to my GitHub!
 
 Frontend Developer | React • Vue.js • Node.js • TypeScript  
 I specialize in building web applications with a focus on modern frontend technologies.
